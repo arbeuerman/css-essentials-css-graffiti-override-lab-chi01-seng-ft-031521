@@ -6,3 +6,7 @@
   display: none;
 }
 
+div#wall .slick wicked {
+  display: none;
+}
+
